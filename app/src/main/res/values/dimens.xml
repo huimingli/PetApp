@@ -1,0 +1,73 @@
+<resources>
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+  <dimen name="activity_margin_small">4dp</dimen>
+  <dimen name="activity_margin_middle">8dp</dimen>
+  <dimen name="activity_margin_large">16dp</dimen>
+
+  <dimen name="acttivity_txt_fouth_half_sp">14.5sp</dimen>
+  <dimen name="size_45">45dp</dimen>
+  <dimen name="size_65">65dp</dimen>
+  <dimen name="size_40">40dp</dimen>
+  <!-- margins and padding-->
+  <dimen name="horizontal_padding">17dp</dimen>
+  <dimen name="horizontal_margin_normal">14dp</dimen>
+  <dimen name="horizontal_padding_large">20dp</dimen>
+  <dimen name="horizontal_padding_more_large">21dp</dimen>
+  <dimen name="vertical_padding">16dp</dimen>
+  <dimen name="vertical_padding_little">8dp</dimen>
+  <dimen name="text_vertical_padding">15dp</dimen>
+  <dimen name="gap_middle">12dp</dimen>
+  <dimen name="gap_litter_middle">11dp</dimen>
+  <dimen name="gap_little">6dp</dimen>
+  <dimen name="gap_large">24dp</dimen>
+  <dimen name="layout_padding">10dp</dimen>
+  <dimen name="layout_small_padding">9dp</dimen>
+  <dimen name="bottom_gap">30dp</dimen>
+  <dimen name="line_extra_little">3dp</dimen>
+  <dimen name="line_extra_middle">5dp</dimen>
+  <dimen name="acttivity_divice_width_small">1px</dimen>
+
+  <!--指示圆点-->
+  <dimen name="default_circle_indicator_radius">3dp</dimen>
+  <dimen name="default_circle_indicator_stroke_width">0px</dimen>
+
+  <!--字体大小-->
+  <dimen name="font_size_toast">12sp</dimen>
+  <dimen name="text_size_hint">15sp</dimen>
+  <dimen name="text_size_normal">16sp</dimen>
+  <dimen name="text_size_bigger_than_normal">17sp</dimen>
+  <dimen name="text_size_middle">14sp</dimen>
+  <dimen name="text_size_little">12sp</dimen>
+  <dimen name="text_size_mini">11sp</dimen>
+  <dimen name="text_size_tiny">10sp</dimen>
+  <dimen name="text_size_large">18sp</dimen>
+  <dimen name="text_size_super">30sp</dimen>
+
+  <!-- wheelPicker 相关-->
+  <dimen name="WheelItemSpace">8dp</dimen>
+  <dimen name="WheelPadding">8dp</dimen>
+  <dimen name="WheelTextSize">20sp</dimen>
+  <dimen name="WheelLabelTextSize">12sp</dimen>
+
+  <dimen name="oval_radius">60dp</dimen>
+
+  <dimen name="image_size_back">18dp</dimen>
+  <dimen name="image_size_15">15dp</dimen>
+  <dimen name="acttivity_txt_thirteen_half_sp">13.5sp</dimen>
+  <dimen name="acttivity_rect_round_middle">5dp</dimen>
+  <dimen name="acttivity_txt_thirteen_sp">13sp</dimen>
+  <dimen name="acttivity_txt_fifteen_sp">15sp</dimen>
+
+  <dimen name="dimen_50_dip">41.67px</dimen>
+  <dimen name="dimen_20_dip">16.67px</dimen>
+  <dimen name="height_48">48dp</dimen>
+  <dimen name="phone_bottem_height">57dp</dimen>
+
+  <dimen name="WheelItemTextSize">24sp</dimen>
+  <dimen name="WheelIndicatorSize">2dp</dimen>
+  <dimen name="WheelMargins">8dp</dimen>
+  <dimen name="big_head_img">83dp</dimen>
+  <dimen name="phone_bottem">25dp</dimen>
+</resources>

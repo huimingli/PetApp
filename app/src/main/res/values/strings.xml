@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">PetProject</string>
+  <string name="loading">加载中...</string>
+  <string name="request_failed">请求失败</string>
+  <string name="request_error">请求错误</string>
+
+</resources>
