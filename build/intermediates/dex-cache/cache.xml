@@ -3,12 +3,156 @@
 
     <item
         is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.7/138872ff3173fb7bee8b1d6303d6edb57d76599/rxjava-1.2.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_64fd84db33a85363022fc88f657ea1024812f0a9.jar" />
+        sha1="0138872ff3173fb7bee8b1d6303d6edb57d76599">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/rxjava-1.2.7_9f1063abea6d0b0c3771d2f2abc042da8d77c532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9e490741ebe0bea4c1f223a12966543ce8895079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_a924023b6fe684689c3f456c8a36c005f31fedc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_edd5ff240d06222f55e35af28e654e861e2f6dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_155ec60fe6e89f60c14f447bbaf485299f900839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.2.0_56142bf70359d63801143a7eafa524c538c9d5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_8e0cb557a8c8edb8fc706c4221e55d0998931112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5ae989e04e28df5a743abc21c721d7c2f9b0525d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_ecae3d94357e1a3bb3b9f299a8df042320d430d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_79661cc879f5c9177dc7e4313b88ebe4e6eeb48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta2_d3dbe167a55871febaf3f913c57611f8200e5201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_06526b3c6479c6cbfb06fa147ddef2e94b3d7441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_87e9456c80c38b6ec16009dc953a8a866205564c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f575a6ae5ae0230707eec35c8db16dadb831aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/1.0/6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb/rxlifecycle-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/rxlifecycle-1.0_8b1abc53e37f8bb285d15740d3242f32331e3d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a18439fbd29d37d7192c786eeac05fb5c603aec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/jsr305-3.0.1_727dc7159d498b9c959dc813507b469236e0434e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,12 +165,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_900e07bdcc2b4753c58629e341fc91b4f89b14c8.jar" />
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d7b2870842cb9ac22c76c223a0858ee43ce76842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_59b50c63343db3de75ea5442579981a0840b1f8f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +192,174 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_96bfdce31f2619f4ae02454048a505d0dc8fc0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/okio-1.11.0_d65c19dc2bab1bcae91ef8affc259904bf6aef97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_6497226520d4aea3a6d44a7c945c0f71d8178780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_157982315bbfaffcc4da11349324b9c9e5c813b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_11c1c57a6b6bf5f164fceee719a8a741174ffc00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_64fd84db33a85363022fc88f657ea1024812f0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2ac21fef307035ee456a12aebfe2ad387d928ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
         <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5c51eaf5aa6b75ac58243554b3f6fa3db7bbb8fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/gson-2.8.0_28294bc039442747afb6b95b16fcdaf7dc298d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_9d104e9567427989a1767ae5da494c94e86f6501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_f7cf44568dad9c286c2739fd55f94b161f0738ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-components/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.trello-rxlifecycle-components-1.0_335ac80ec66046455f81989cb7b39805661f4d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_e57741322d3d4b032ff74239fff8857e59833963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_5831537060d85497592c774435855c93d64e112b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c28126087fa54671b764a995d4a2022726cd1277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_038d9b85e8326fd60bff8fe6ee8df0497ca9c817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_c3e3c3e8a5cf2fe3b2434e95b2480079c3ba282d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_900e07bdcc2b4753c58629e341fc91b4f89b14c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-android/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.trello-rxlifecycle-android-1.0_4c606c974227a9bb5e4754655d5c2332ae0f24c5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,33 +381,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5ae989e04e28df5a743abc21c721d7c2f9b0525d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_79661cc879f5c9177dc7e4313b88ebe4e6eeb48f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_f7cf44568dad9c286c2739fd55f94b161f0738ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,39 +390,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_e57741322d3d4b032ff74239fff8857e59833963.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8e51f6cc172f469c18dfa60078d7139bc81a8a38.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/huimingli/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c28126087fa54671b764a995d4a2022726cd1277.jar" />
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_60dc2003cba0d9937d3d9785004f2264e67e7055.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/huimingli/Desktop/petapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f575a6ae5ae0230707eec35c8db16dadb831aae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/huimingli/Desktop/PetProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/huimingli/Desktop/PetProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a18439fbd29d37d7192c786eeac05fb5c603aec3.jar" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/huimingli/Desktop/petapp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_94434bd3f6be04d4927b3b6764bc1002493956b2.jar" />
     </item>
 
 </items>

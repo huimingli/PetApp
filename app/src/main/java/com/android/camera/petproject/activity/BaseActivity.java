@@ -23,8 +23,8 @@ public abstract class BaseActivity extends AppCompatActivity {
 
   ProgressDialog loadingDialog;
   @Override
-  public void onCreate(Bundle savedInstanceState, PersistableBundle persistentState) {
-    super.onCreate(savedInstanceState, persistentState);
+  public void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
     initVariables();
     getData();
     initViews();

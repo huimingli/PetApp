@@ -3,9 +3,11 @@ package com.android.camera.petproject.activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.TextView;
 import android.widget.Toast;
 import com.android.camera.petproject.R;
 import com.android.camera.petproject.domain.RetrofitEntity;
+import com.android.camera.petproject.domain.SubjectResulte;
 import com.android.camera.petproject.service.HttpService;
 import com.android.camera.petproject.utils.ToastUtils;
 import java.util.concurrent.TimeUnit;
@@ -21,48 +23,9 @@ import rx.schedulers.Schedulers;
 public class MainActivity extends BaseActivity {
 
   @Override
-  protected void onCreate(Bundle savedInstanceState) {
+  public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
-    //手动创建一个OkHttpClient并设置超时时间
-    okhttp3.OkHttpClient.Builder builder = new OkHttpClient.Builder();
-    builder.connectTimeout(5, TimeUnit.SECONDS);
-
-    Retrofit retrofit = new Retrofit.Builder()
-        .client(builder.build())
-        .addConverterFactory(GsonConverterFactory.create())
-        .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
-        .baseUrl("")
-        .build();
-    Observable<RetrofitEntity> observable = retrofit.create(HttpService.class)
-        .getAllVedioBy(true);
-    observable.subscribeOn(Schedulers.io()).unsubscribeOn(Schedulers.io()).observeOn(
-        AndroidSchedulers.mainThread())
-        .subscribe(
-            new Subscriber<RetrofitEntity>() {
-              @Override
-              public void onCompleted() {
-                dismissLoadingDialog();
-              }
-
-              @Override
-              public void onError(Throwable e) {
-                dismissLoadingDialog();
-              }
-
-              @Override
-              public void onNext(RetrofitEntity retrofitEntity) {
-//                tvMsg.setText("无封装：\n" + retrofitEntity.getData().toString());
-              }
-
-              @Override
-              public void onStart() {
-                super.onStart();
-                showLoadingDialog();
-              }
-            }
-
-        );
+    setContentView(R.layout.activity_main);cd
     findViewById(R.id.hello).setOnClickListener(new OnClickListener() {
       @Override
       public void onClick(View view) {
