@@ -25,7 +25,7 @@ public class MainActivity extends BaseActivity {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);cd
+    setContentView(R.layout.activity_main);
     findViewById(R.id.hello).setOnClickListener(new OnClickListener() {
       @Override
       public void onClick(View view) {
